@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WoP3k+KeQQcmUAZoOQZKDOHh/JqTYn0E0dlttS1YNKl/gZoKlckOKUUwDsfA/AkEHkeNLPtAXj3x+5+0eRYDVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SmarTI\\source\\repos\\FormatadorSQL\\FormatadorSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SmarTI\\.nuget\\packages\\basicsqlformatter\\1.0.3\\basicsqlformatter.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

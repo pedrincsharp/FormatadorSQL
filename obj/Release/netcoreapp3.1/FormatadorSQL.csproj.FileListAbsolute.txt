@@ -1,0 +1,15 @@
+C:\Users\SmarTI\source\repos\FormatadorSQL\bin\Release\netcoreapp3.1\FormatadorSQL.exe
+C:\Users\SmarTI\source\repos\FormatadorSQL\bin\Release\netcoreapp3.1\FormatadorSQL.deps.json
+C:\Users\SmarTI\source\repos\FormatadorSQL\bin\Release\netcoreapp3.1\FormatadorSQL.runtimeconfig.json
+C:\Users\SmarTI\source\repos\FormatadorSQL\bin\Release\netcoreapp3.1\FormatadorSQL.runtimeconfig.dev.json
+C:\Users\SmarTI\source\repos\FormatadorSQL\bin\Release\netcoreapp3.1\FormatadorSQL.dll
+C:\Users\SmarTI\source\repos\FormatadorSQL\bin\Release\netcoreapp3.1\FormatadorSQL.pdb
+C:\Users\SmarTI\source\repos\FormatadorSQL\bin\Release\netcoreapp3.1\BasicSQLFormatter.dll
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.csproj.AssemblyReference.cache
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.AssemblyInfoInputs.cache
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.AssemblyInfo.cs
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.csproj.CoreCompileInputs.cache
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.csproj.CopyComplete
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.dll
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.pdb
+C:\Users\SmarTI\source\repos\FormatadorSQL\obj\Release\netcoreapp3.1\FormatadorSQL.genruntimeconfig.cache
